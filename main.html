@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <section>
+            <header>
+                <section class="logo"><img src="img/logo.svg" /></section>
+                <section class="stop"  id="stop-name">Ciutat Arts i Ciències - Justícia</section>
+                <section class="clock" id="clock">--:--:--</section>
+            </header>
+            <section class="timetable">
+                <article id="first-train" class="train first">
+                    <section class="line-num">
+                        <article class="icon L0"></article>
+                    </section>
+                    <section class="destination">
+                        <span>Sense servei</span>
+                    </section>
+                    <section class="departure-time">
+                        <span>00:00</span>
+                    </section>
+                </article>
+                <article id="second-train" class="train second">
+                    <section class="line-num">
+                        <article class="icon L0"></article>
+                    </section>
+                    <section class="destination">
+                        <span>Sense servei</span>
+                    </section>
+                    <section class="departure-time">
+                        <span>00:30</span>
+                    </section>
+                </article>
+            </section>
+        </section>
+        <footer class="scrolling-messages">
+            <section class="msg-icon"><img src="img/msg.svg" /></section>
+            <section class="message-board">
+                <article id="message" class="message"></article>
+            </section>
+        </footer>
+    </main>
+    <script type="module" src="scripts.js"></script> 
+</body>
+</html>

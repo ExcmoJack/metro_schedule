@@ -1,0 +1,107 @@
+{
+    "lines":
+    [
+        {
+            "line": null,
+            "destinations":
+            [
+                "Valencia Sud",
+                "Machado"
+            ]
+        },
+        {
+            "line": 1,
+            "destinations":
+            [
+                "Bétera",
+                "Seminari - CEU",
+                "Empalme",
+                "Torrent",
+                "Picassent",
+                "L'Alcúdia",
+                "Castelló"
+            ]
+        },
+        {
+            "line": 2,
+            "destinations":
+            [
+                "Llíria",
+                "Paterna",
+                "Empalme",
+                "Torrent Avinguda"
+            ]
+        },
+        {
+            "line": 3,
+            "destinations":
+            [
+                "Rafelbunyol",
+                "Aeroport"
+            ]
+        },
+        {
+            "line": 4,
+            "destinations":
+            [
+                "Mas del Rosari",
+                "Ll. Llarga - Terramelar",
+                "Fira València",
+                "Vicent Andrés Estellés",
+                "Tarongers - Ernest Lluch",
+                "Dr. Lluch"
+            ]
+        },
+        {
+            "line": 5,
+            "destinations":
+            [
+                "Marítim",
+                "Aeroport"
+            ]
+        },
+        {
+            "line": 6,
+            "destinations":
+            [
+                "Tarongers - Ernest Lluch",
+                "Beteró",
+                "Marítim"
+            ]
+        },
+        {
+            "line": 7,
+            "destinations":
+            [
+                "Marítim",
+                "Torrent Avinguda"
+            ]
+        },
+        {
+            "line": 8,
+            "destinations":
+            [
+                "Rafelbunyol",
+                "Aeroport"
+            ]
+        },
+        {
+            "line": 9,
+            "destinations":
+            [
+                "Alboraia - Peris Aragó",
+                "Av. del Cid",
+                "Riba-roja de Túria"
+            ]
+        },
+        {
+            "line": 10,
+            "destinations":
+            [
+                "Alacant",
+                "Ciutat Arts i Ciències - Justícia",
+                "Nazaret"
+            ]
+        }
+    ]
+}
